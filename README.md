@@ -6,7 +6,7 @@
 
 Minha paixão por tecnologia começou lá atrás, ainda no ensino médio! 🚀 Participei de competições como a **"Startups in School"** da Ideia de Futuro, onde minha equipe e eu criamos um app de mobilidade urbana usando o **MIT App Inventor** – e adivinhem? Vencemos! 🏆 Também participei da **VI Virada Empreendedora de São Paulo**, uma experiência incrível que me fez perceber que esse mundo tech era onde eu queria estar.
 
-Apesar de ter seguido a carreira de **Farmácia** 💊 por um tempo, um receio de entrar em uma área predominantemente masculina me fez demorar um pouco para seguir o caminho da programação. Mas, depois de refletir, percebi que meu verdadeiro lugar era no **universo da tecnologia** 💻, e aí não tive mais dúvidas!
+Depois disso, acabei seguindo a carreira em Farmácia 💊, mas com o tempo percebi que meu coração batia mesmo era pelo universo da tecnologia 💻. Agora, sem receios e cheia de motivação, estou trilhando esse caminho com toda a energia que posso!
 
 Atualmente, estou **mergulhada no bootcamp de Java Fullstack na Generation Brasil** 💡, onde estou aprendendo e me desafiando com tudo que envolve **Java, Spring, React.js** e muito mais. Além disso, continuo meus estudos na **Alura** 📚 e já estou me preparando para começar a faculdade de **Análise e Desenvolvimento de Sistemas** no próximo ano 🎓.
 
