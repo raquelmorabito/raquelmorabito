@@ -1,7 +1,5 @@
 ## Olá, mundo! Meu nome é Raquel 👩‍💻✨
 
-**Técnica em Química e Farmacêutica, atualmente em transição para a área de Tecnologia.**
-
 ### 🌟 Sobre mim
 
 Minha paixão por tecnologia começou lá atrás, ainda no ensino médio! 🚀 Participei de competições como a **"Startups in School"** da Ideia de Futuro, onde minha equipe e eu criamos um app de mobilidade urbana usando o **MIT App Inventor** – e adivinhem? Vencemos! 🏆 Também participei da **Maratona Intel na VI Virada Empreendedora de São Paulo**, uma experiência incrível que me fez perceber que esse mundo tech era onde eu queria estar.
