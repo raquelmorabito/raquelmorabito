@@ -1,4 +1,4 @@
-## Olá, mundo! Meu nome é Raquel 👩‍💻✨
+## Olá, mundo! Meu nome é Raquel, mas pode me chamar de Quel 👩‍💻✨
 
 ### 🌟 Sobre mim
 
