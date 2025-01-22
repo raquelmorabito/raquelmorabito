@@ -23,7 +23,8 @@ Sou uma pessoa curiosa e criativa 🎨, com uma constante sede de aprender e cre
 
 ### Badges 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raquelmorabito&show_icons=true&theme=radical" width="49%">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelmorabito&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raquelmorabito&show_icons=true&theme=tokyonight" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelmorabito&layout=compact&theme=tokyonight&langs_count=10" width="48%" />
 </div>
 
 ### 🌐 Conecte-se comigo 
